@@ -1,7 +1,6 @@
 # **Containerize a full-stack NodeJS application in Docker and deploy to remote server**
 
-
-This repository contains a project was developed as part of coursersa project network: https://www.coursera.org/learn/containerize-full-stack-nodejs-application-in-docker/home/welcome
+This repository contains a project developed as part of Coursera - project network: https://www.coursera.org/learn/containerize-full-stack-nodejs-application-in-docker/home/welcome
 
 Taught by: Rudi Hinds
 
