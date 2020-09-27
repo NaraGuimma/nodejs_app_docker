@@ -2,7 +2,7 @@ version: '3'
 
 services: 
   app:
-    image: naraguimma/nodeblogapp:1.0
+    image: <your repo name here>:<version>
     ports: 
       - "3000:3000"
     restart: always
